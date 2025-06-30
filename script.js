@@ -33,6 +33,7 @@ async function mulainama() {
   teksAtas.innerText = "ini kamu kan 😁";
   teksAtas.style = `
     font-size: 18px;
+    color: white;
     font-weight: bold;
     margin-bottom: 10px;
     font-family: 'Dancing Script', cursive;
